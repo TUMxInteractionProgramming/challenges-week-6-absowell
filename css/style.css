@@ -3,7 +3,7 @@
   * Background: #F5F5F5 (GREY 100)
   * Primary Text: black
   *
-  * Primary color: #3F51B5 (INDIGO)
+  * Primary color: #9C27B0 (VIOLET)
   * Primary color_text : white
   * Accent color: #CDDC39 (LIME)
   * Accent color_text: black
@@ -33,7 +33,7 @@ button, strong {
     height: 100%;
     width: 40%;
 
-    background-color: #3F51B5; /* temporary background color to see the effect, is completely hidden now */
+    background-color: #9C27B0; /* temporary background color to see the effect, is completely hidden now */
 
     /* #9 #shdw #idx: let the channels view appear on top of the chat view, within the body */
     z-index:2;
@@ -58,7 +58,7 @@ button, strong {
 /* APP BAR */
 
 h1 {
-    background-color: #3F51B5;
+    background-color: #9C27B0;
     color: white;
 
     /* app-bar: general settings for both bars */
@@ -162,7 +162,7 @@ li .channel-meta {
 li .channel-meta span {
     /* boxes for the additional metadata */
     /* color */
-    background-color: #3F51B5;
+    background-color: #9C27B0;
     color: white;
     /* appearance */
     margin:2px;
@@ -179,8 +179,8 @@ li i.fa {
 }
 
 li.selected {
-    color: #3F51B5;
-    border-left: 4px solid #3F51B5;
+    color: #9C27B0;
+    border-left: 4px solid #9C27B0;
 }
 
 /* #9 #flt #btn: FLOATING ACTION BUTTON */
@@ -227,8 +227,8 @@ li.selected {
 }
 
 #tab-bar button.selected {
-    color: #3F51B5;
-    border-bottom: 4px solid #3F51B5;
+    color: #9C27B0;
+    border-bottom: 4px solid #9C27B0;
 }
 
 #tab-bar button i {
@@ -411,7 +411,7 @@ button {
 
 button.primary {
     /* #9 #btns #clss: primary button color scheme */
-    background-color: #3F51B5;
+    background-color: #9C27B0;
     color: white;
 }
 
