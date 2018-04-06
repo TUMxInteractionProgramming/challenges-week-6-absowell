@@ -25,7 +25,7 @@ var channels = [
 /** create global variable */
 var currentChannel;
 
-/** We simply initialize it with the channel selected by default - sevencontinents */
+/** We simply initialize it with the channel selected by default - art */
 currentChannel = art;
 
 /** Store my current (sender) location */
